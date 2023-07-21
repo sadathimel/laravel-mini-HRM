@@ -6,8 +6,7 @@
 
     Then run `composer install` to install the dependency.
 
-    2.
-
+2.
     ```bash
     php artisan serve
     ```
